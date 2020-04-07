@@ -28,7 +28,7 @@ Number and name of feature: 1. Data formatting: As a user, I want the applicatio
 
 Estimate of time needed to complete: 1 hour
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
 
 
 
@@ -36,7 +36,7 @@ Number and name of feature:2. Locations: As a user, I want to enter the name of 
 
 Estimate of time needed to complete: 2 hours
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
 
 
 
@@ -44,7 +44,7 @@ Number and name of feature:3. Weather: As a user, I want to request current weat
 
 Estimate of time needed to complete: 2 hours
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
 
 
 
@@ -52,4 +52,4 @@ Number and name of feature:4. Trails: As a user, I want to request information a
 
 Estimate of time needed to complete: 2 hours
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
